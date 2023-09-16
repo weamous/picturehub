@@ -2,8 +2,10 @@
   script:0,
   pictures:[
     {
+      title: '',
+      script: 0,
+      cover: '',
       src: '',
-      title: ''
     }
   ]
 }
