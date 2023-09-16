@@ -1,0 +1,10 @@
+{
+  script:0,
+  album: [
+    {
+      title: '',
+      cover: '',
+      src: '',
+    }
+  ]
+}
