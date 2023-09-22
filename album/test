@@ -2,23 +2,31 @@
 	"name": "test album"
 	"pictures": [
 		{
+			"id": "0",
 			"encrypt": 0,
 			"name": "test0",
+			"cover": "",
 			"src": "https://raw.githubusercontent.com/weamous/picturehub/main/pictures/test/0"
 		},
 		{
-			"encrypt": 1,
+			"id": "1",
+			"encrypt": 0,
 			"name": "test1",
+			"cover": "",
 			"src": "https://raw.githubusercontent.com/weamous/picturehub/main/pictures/test/1"
 		},
 		{
-			"encrypt": 2,
+			"id": "2",
+			"encrypt": 0,
 			"name": "test2",
+			"cover": "",
 			"src": "https://raw.githubusercontent.com/weamous/picturehub/main/pictures/test/2"
 		},
 		{
-			"encrypt": 3,
+			"id": "3",
+			"encrypt": 0,
 			"name": "test3",
+			"cover": "",
 			"src": "https://raw.githubusercontent.com/weamous/picturehub/main/pictures/test/3"
 		}
 	]
